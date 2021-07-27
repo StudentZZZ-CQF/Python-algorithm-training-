@@ -1,4 +1,4 @@
-def remove2(X):
+def remove2(X：int):
     n=len(X)-2
     i=0
     while i<n:
